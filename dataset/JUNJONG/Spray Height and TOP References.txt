@@ -1,0 +1,29 @@
+M1:	F1 (11m) - Highest Tree 7M + 4M(For Optimal Spraying Altitude)
+	F2 (11m) - Highest Tree 7M + 4M(For Optimal Spraying Altitude)
+	F3 (11m) - Highest Tree 7M + 4M(For Optimal Spraying Altitude)
+	F4 (12m) - Highest Tree 8M + 4M(For Optimal Spraying Altitude)
+	F5 (13m) - Highest Tree 9M + 4M(For Optimal Spraying Altitude)
+	F6 (13m) - Highest Tree 9M + 4M(For Optimal Spraying Altitude)
+	F7 (11m) - Highest Tree 7M + 4M(For Optimal Spraying Altitude)
+	F8 (10m) - Highest Tree 6M + 4M(For Optimal Spraying Altitude)
+	F9 (10m) - Highest Tree 6M + 4M(For Optimal Spraying Altitude)
+	F10(11m) - Highest Tree 7M + 4M(For Optimal Spraying Altitude)
+
+TOP: 1 (F1 F2)
+     2 (F3 F4)
+     3 (F5)
+     4 (F6)
+     5 (F7)
+     6 (F8)
+     7 (F9)
+     8 (F10)
+
+
+
+
+M2:	F1 (26m) - Highest Tree 22M + 4M(For Optimal Spraying Altitude)
+	F2 (30m) - Highest Tree 26M + 4M(For Optimal Spraying Altitude)
+
+TOP: 9 (F1 F2)
+
+
